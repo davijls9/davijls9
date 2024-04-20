@@ -2,7 +2,6 @@
 
 ### Contato
 🏠 Ribeirão das Neves, Minas Gerais - Brasil
-📱 (31) 9 9970-8722 (Mobile)
 📧 davi.jls@outlook.com
 🌐 [LinkedIn](https://www.linkedin.com/in/davi-j-leite-santos)
 🌐 [Website](http://davijls.com.br/)
