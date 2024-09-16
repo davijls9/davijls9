@@ -1,9 +1,9 @@
 # Davi J. Leite Santos
 
 ### Contato
-🏠 Ribeirão das Neves, Minas Gerais - Brasil
-📧 davi.jls@outlook.com
-🌐 [LinkedIn](https://www.linkedin.com/in/davi-j-leite-santos)
+🏠 Ribeirão das Neves, Minas Gerais - Brasil  
+📧 davi.jls@outlook.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/davi-j-leite-santos)  
 🌐 [Website](http://davijls.com.br/)
 
 ### Principais Competências
@@ -28,6 +28,10 @@
 
 ### Resumo
 Olá! Eu sou Davi, um profissional curioso, determinado e apaixonado pelo trabalho em equipe. Busco constantemente conhecimento e excelência para alcançar meus objetivos. A minha curiosidade impulsiona a busca por novos aprendizados, enquanto a determinação me motiva a ir além do que já conquistei. Reconheço a importância da colaboração e troca de ideias para obter resultados significativos. Sou um exemplo de como essas qualidades podem levar a grandes conquistas e incentivo outros a seguirem o mesmo caminho.
+
+### Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davijls9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Formação Acadêmica
 - Sistema da Informação, Pontifícia Universidade Católica de Minas Gerais (2017 - 2023)
